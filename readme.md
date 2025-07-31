@@ -15,7 +15,6 @@ This project showcases my skills, projects, and contact details as a **Frontend 
 
 ## 🚀 Technologies Used
 
-- React
 - HTML5
 - CSS3
 - JavaScript
